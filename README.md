@@ -120,7 +120,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
   A stateful component uses stateful logic, meaning it functions based on data stored in a state, whereas a functional component functions based on props passed into it. 
 
 2. When does a componentWillMount function be called? What about a          componentWillUpdate?
-  componentWillMount is called when a component first renders(mounted). componentWillUpdate is called when a component is rerendered(remounted).
+  componentWillMount is called when a component first renders(mounted). componentWillUpdate is called when a component is rerendered(updated).
 
 3. Define stateful logic.
   Stateful logic is logic that operates with on based on data stored in a state.
